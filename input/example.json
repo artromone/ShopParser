@@ -1,0 +1,122 @@
+[
+  {
+    "ticket": {
+      "document": {
+        "receipt": {
+          "dateTime": "2023-06-25T15:30:00",
+          "user": "Smile Shop",
+          "items": [
+            {
+              "name": "Funny Hat",
+              "price": 499,
+              "quantity": 2,
+              "sum": 998
+            },
+            {
+              "name": "Laughing Clown",
+              "price": 1999,
+              "quantity": 1,
+              "sum": 1999
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ticket": {
+      "document": {
+        "receipt": {
+          "dateTime": "2023-06-26T10:15:00",
+          "user": "Magic Moments",
+          "items": [
+            {
+              "name": "Giant Bubble Gum",
+              "price": 299,
+              "quantity": 5,
+              "sum": 1495
+            },
+            {
+              "name": "Whoopee Cushion",
+              "price": 99,
+              "quantity": 3,
+              "sum": 297
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ticket": {
+      "document": {
+        "receipt": {
+          "dateTime": "2023-07-10T14:45:00",
+          "user": "Inspire & Merchant",
+          "items": [
+            {
+              "name": "Silly Socks",
+              "price": 199,
+              "quantity": 2,
+              "sum": 398
+            },
+            {
+              "name": "Rubber Chicken",
+              "price": 899,
+              "quantity": 1,
+              "sum": 899
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ticket": {
+      "document": {
+        "receipt": {
+          "dateTime": "2023-07-11T09:30:00",
+          "user": "Curiosity Bazaar",
+          "items": [
+            {
+              "name": "Fake Mustache",
+              "price": 149,
+              "quantity": 3,
+              "sum": 447
+            },
+            {
+              "name": "Whoopie Goldberg DVD",
+              "price": 799,
+              "quantity": 1,
+              "sum": 799
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ticket": {
+      "document": {
+        "receipt": {
+          "dateTime": "2023-10-05T12:20:00",
+          "user": "Enchanted Emporium",
+          "items": [
+            {
+              "name": "Squishy Stress Ball",
+              "price": 249,
+              "quantity": 2,
+              "sum": 498
+            },
+            {
+              "name": "Hand Buzzer",
+              "price": 69,
+              "quantity": 5,
+              "sum": 345
+            }
+          ]
+        }
+      }
+    }
+  }
+]
