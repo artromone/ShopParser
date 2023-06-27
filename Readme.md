@@ -8,7 +8,7 @@ This application allows you to present information about checks in a convenient 
 ![](https://u.to/X--BHw)
 
 2) Authorize and click export button
-![](images/export_button.jpg)
+<img src="images/export_button.jpg" alt="drawing" width="200"/>
 
 3) Select date range
 ![](images/range.jpg)
